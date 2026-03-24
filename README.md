@@ -1,4 +1,4 @@
-# novacanvas-ai
+
 # NovaCanvas AI
 
 NovaCanvas is an AI-powered art generator built with React, Node.js, with latest AI tools. Users can type prompts, get enhanced descriptions, and generate stunning AI images in real-time.
